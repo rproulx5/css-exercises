@@ -1,0 +1,15 @@
+.colored-background,
+.yellow-background{
+font-size:  28px;
+font-family: 'Times New Roman', Helvetica, sans-serif;
+}
+
+.colored-background{
+   background-color: black; 
+   color: white;
+}
+
+.yellow-background{
+background-color: yellow;
+}
+
